@@ -12,53 +12,59 @@
 
 | 机型 | 版本目录 | 大小 | 下载链接 |
 |---|---|---|---|
-| OPPO A5（PKQ110） | 降级包ColorOS PKQ110_15.0.0.991(CN01) A.18 | 7.42 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A5 活力版（PKV110） | 降级包ColorOS PKV110_15.0.0.1201(CN01) C.42 | 7.00 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A5 Pro（PKP110） | 降级包ColorOS PKP110_15.0.0.1356(CN01) A.41 | 8.79 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6（PLS120） | 降级包ColorOS PLS120_15.0.2.804(CN01) A.39 | 7.33 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6 GT（PLL110） | 降级包ColorOS PLL110_15.0.2.810(CN01) A.23 | 7.46 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6 Pro（PLN110） | 降级包ColorOS PLN110_15.0.2.802(CN01) A.23 | 8.96 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6c（PMC110） | 降级包ColorOS PMC110_15.0.2.1101(CN01) A.18 | 7.39 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6c（PMC110） | 降级包ColorOS PMC110_15.0.2.904(CN01) A.16 | 7.28 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6i（PKW120） | 降级包ColorOS PKW120_15.0.1.708(CN01) A.32 | 6.93 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO A6s（PLT120） | 降级包ColorOS PLT120_15.0.2.1003(CN01) A.31 | 7.32 GB | [夸克](https://pan.quark.cn/s/06499d32a702) |
+| OPPO A5（PKQ110） | 降级包ColorOS PKQ110_15.0.0.991(CN01) A.18 | 7.42 GB | [夸克](https://pan.quark.cn/s/974e53ef3030) |
+| OPPO A5 活力版（PKV110） | 降级包ColorOS PKV110_15.0.0.1201(CN01) C.42 | 7.00 GB | [夸克](https://pan.quark.cn/s/c816174f1d1d) |
+| OPPO A5 Pro（PKP110） | 降级包ColorOS PKP110_15.0.0.1356(CN01) A.41 | 8.79 GB | [夸克](https://pan.quark.cn/s/f91899a34cc3) |
+| OPPO A6（PLS120） | 降级包ColorOS PLS120_15.0.2.804(CN01) A.39 | 7.33 GB | [夸克](https://pan.quark.cn/s/a3a6083cc08c) |
+| OPPO A6 GT（PLL110） | 降级包ColorOS PLL110_15.0.2.810(CN01) A.23 | 7.46 GB | [夸克](https://pan.quark.cn/s/e97ebcaf5a22) |
+| OPPO A6 Pro（PLN110） | 降级包ColorOS PLN110_15.0.2.802(CN01) A.23 | 8.96 GB | [夸克](https://pan.quark.cn/s/22bd5d1418dc) |
+| OPPO A6c（PMC110） | 降级包ColorOS PMC110_15.0.2.1101(CN01) A.18 | 7.39 GB | [夸克](https://pan.quark.cn/s/55b56750ff17) |
+| OPPO A6c（PMC110） | 降级包ColorOS PMC110_15.0.2.904(CN01) A.16 | 7.28 GB | [夸克](https://pan.quark.cn/s/06fe928b3aa8) |
+| OPPO A6i（PKW120） | 降级包ColorOS PKW120_15.0.1.708(CN01) A.32 | 6.93 GB | [夸克](https://pan.quark.cn/s/63e5e59da604) |
+| OPPO A6s（PLT120） | 降级包ColorOS PLT120_15.0.2.1003(CN01) A.31 | 7.32 GB | [夸克](https://pan.quark.cn/s/6e424c2d26d5) |
 | OPPO Find N2（PGU110） | 降级包ColorOS PGU110_15.0.0.1301(CN01) F.16 | 9.40 GB | [夸克](https://pan.quark.cn/s/5c9a1f7351f5) · [迅雷](https://pan.xunlei.com/s/VP525MUcnT1QH4xjf7u6902rA1?pwd=uddg) |
+| OPPO Find N2 Flip（PGT110） | 降级包ColorOS PGT110_15.0.0.1101(CN01) F.27 | 9.27 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find N3（PHN110） | 降级包ColorOS PHN110_15.0.0.850(CN01) F.56 | 8.16 GB | [夸克](https://pan.quark.cn/s/c128e28200e3) · [迅雷](https://pan.xunlei.com/s/VP5Qnr-gpWnMx7tTeBwm3h8_A1?pwd=trag) · [百度](https://pan.baidu.com/s/1tZ-dnNLvm-50sOjGka7k8g?pwd=dxam) |
+| OPPO Find N3 Flip（PHT110） | 降级包ColorOS PHT110_15.0.0.860(CN01) F.86 | 10.08 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find N5（PKH110） | 降级包ColorOS PKH110_15.0.1.831(CN01) A.57 | 10.11 GB | [夸克](https://pan.quark.cn/s/7fd104a6574e) · [百度](https://pan.baidu.com/s/1Gehd7tJdpqdRxTyFfEfpwA?pwd=dxam) |
 | OPPO Find N5 卫星通信版（PKH120） | 降级包ColorOS PKH120_15.0.1.831(CN01) A.57 | 10.12 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X5 Pro（PFEM10） | 降级包ColorOS PFEM10_15.0.0.1302(CN01) H.88 | 8.77 GB | [夸克](https://pan.quark.cn/s/eaabfeb31c0b) |
-| OPPO Find X5 Pro 天玑版（PFFM20） | 降级包ColorOS PFFM20_15.0.0.1351(CN01) H.33 | 8.53 GB | [夸克](https://pan.quark.cn/s/3b416748c799) |
+| OPPO Find X5 Pro 天玑版（PFFM20） | 降级包ColorOS PFFM20_15.0.0.1351(CN01) H.33 | 8.53 GB | [夸克](https://pan.quark.cn/s/77f6bbb3a8dc) |
+| OPPO Find X6（PGFM10） | 降级包ColorOS PGFM10_15.0.0.850(CN01) F.34 | 9.37 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X6 Pro（PGEM10） | 降级包ColorOS PGEM10_15.0.0.860(CN01) F.34 | 9.35 GB | [夸克](https://pan.quark.cn/s/248e87620b12) · [百度](https://pan.baidu.com/s/1TfrU2Yf6uNnyOErQO2b09g?pwd=dxam) |
 | OPPO Find X7（PHZ110） | 降级包ColorOS PHZ110_15.0.0.850(CN01) C.78 | 9.65 GB | [夸克](https://pan.quark.cn/s/45709382284b) · [百度](https://pan.baidu.com/s/10iprNYehdNO4VjyMzN7ATA?pwd=dxam) |
 | OPPO Find X7 Ultra（PHY110） | 降级包ColorOS PHY110_15.0.0.861(CN01) C.64 | 9.95 GB | [夸克](https://pan.quark.cn/s/fb2a1ce9322d) · [迅雷](https://pan.xunlei.com/s/VP66GFnG-1nmTRJMMB6OK2pMA1?pwd=27kg) |
+| OPPO Find X7 Ultra 卫星通信版（PHY120） | 降级包ColorOS PHY120_15.0.0.861(CN01) C.64 | 9.69 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X8（PKB110） | 降级包ColorOS PKB110_15.0.0.820(CN01) A.76 | 7.96 GB | [夸克](https://pan.quark.cn/s/4063e53f11ea) · [迅雷](https://pan.xunlei.com/s/VP5iuS7BccBVDZfizBhDRhvHA1?pwd=4dva) |
 | OPPO Find X8（PKB110） | 降级包ColorOS PKB110_15.0.0.832(CN01) A.83 | 9.78 GB | [夸克](https://pan.quark.cn/s/00c6d919baa5) · [迅雷](https://pan.xunlei.com/s/VP5ivJGm4-pgmJKvR8J5W-CTA1?pwd=jwna) |
 | OPPO Find X8 Pro（PKC110） | 降级包ColorOS PKC110_15.0.0.841(CN01) A.88 | 9.82 GB | [夸克](https://pan.quark.cn/s/0ed51ea886b1) · [百度](https://pan.baidu.com/s/19tpaft155EBidFVveZgQUw?pwd=dxam) |
 | OPPO Find X8 Pro（PKC110） | 降级包ColorOS PKC110_15.0.0.850(CN01) A.90 | 9.87 GB | [夸克](https://pan.quark.cn/s/1658de8ba80b) · [百度](https://pan.baidu.com/s/14CxF8I0Gh8irND80EwPLYQ?pwd=dxam) |
+| OPPO Find X8 Pro 卫星通信版（PKC130） | 降级包ColorOS PKC130_15.0.0.850(CN01) A.90 | 9.87 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X8 Ultra（PKJ110） | 降级包ColorOS PKJ110_15.0.1.502(CN01) A.55 | 10.52 GB | [夸克](https://pan.quark.cn/s/dc808a4f8bfe) · [百度](https://pan.baidu.com/s/1s9E2Gv88PBS2vMAFEkX5Kg?pwd=dxam) |
 | OPPO Find X8 Ultra 卫星通信版（PKU110） | 降级包ColorOS PKU110_15.0.1.502(CN01) A.55 | 10.48 GB | [夸克](https://pan.quark.cn/s/f8a76b3e4056) |
 | OPPO Find X8s（PKT110） | 降级包ColorOS PKT110_15.0.1.610(CN01) A.60 | 10.03 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X8s+（PLB110） | 降级包ColorOS PLB110_15.0.1.700(CN01) A.62 | 10.33 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO K12（PJR110） | 降级包ColorOS PJR110_15.0.0.1301(CN01) C.25 | 8.54 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO K12（PJR110） | 降级包ColorOS PJR110_15.0.0.1301(CN01) C.25 | 8.54 GB | [夸克](https://pan.quark.cn/s/682280882075) |
 | OPPO K12 Plus（PKS110） | 降级包ColorOS PKS110_15.0.0.1301(CN01) C.19 | 8.64 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO K12s（PLD110） | 降级包ColorOS PLD110_15.0.1.800(CN01) A.24 | 8.20 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO K12x（PJT110） | 降级包ColorOS PJT110_15.0.0.1362(CN01) C.70 | 7.97 GB | [夸克](https://pan.quark.cn/s/b3bd0c01236e) |
-| OPPO K13 Turbo（PLM110） | 降级包ColorOS PLM110_15.0.2.701(CN01) A.25 | 9.39 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO K13 Turbo（PLM110） | 降级包ColorOS PLM110_15.0.2.701(CN01) A.25 | 9.39 GB | [夸克](https://pan.quark.cn/s/576927c391d8) |
 | OPPO K13 Turbo Pro（PLE110） | 降级包ColorOS PLE110_15.0.2.601(CN01) A.26 | 9.14 GB | [夸克](https://pan.quark.cn/s/387aa227ccb2) · [迅雷](https://pan.xunlei.com/s/VP5M9adf5_v7qpgmnJ5u2V_fA1?pwd=da2v) |
+| OPPO Pad 2（OPD2201） | 降级包ColorOS OPD2201_15.0.0.1351(CN01) F.15 | 6.86 GB | [夸克](https://pan.quark.cn/s/b381c5d72b45) |
 | OPPO Pad 3（OPD2405） | 降级包ColorOS OPD2405_15.0.0.1351(CN01) A.40 | 8.12 GB | [夸克](https://pan.quark.cn/s/8bffb591e750) |
-| OPPO Pad 3 Pro（OPD2401） | 降级包ColorOS OPD2401_15.0.0.1303(CN01) C.23 | 7.96 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO Pad 3 Pro（OPD2401） | 降级包ColorOS OPD2401_15.0.0.1303(CN01) C.23 | 7.96 GB | [夸克](https://pan.quark.cn/s/da0f338fa9b6) |
 | OPPO Pad 4 Pro（OPD2409） | 降级包ColorOS OPD2409_15.0.1.810(CN01) A.47 | 7.35 GB | [夸克](https://pan.quark.cn/s/a755a87ed75b) · [百度](https://pan.baidu.com/s/1sYau33v37tPGyFH0DFtWAA?pwd=dxam) |
 | OPPO Pad SE（OPD2417） | 降级包ColorOS OPD2417_15.0.1.1101(CN01) A.58 | 6.52 GB | [夸克](https://pan.quark.cn/s/2ead5a887a1b) |
-| OPPO Reno10 Pro+（PHU110） | 降级包ColorOS PHU110_15.0.0.1301(CN01) F.86 | 9.26 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno11（PJH110） | 降级包ColorOS PJH110_15.0.0.870(CN01) C.90 | 9.37 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno11 Pro（PJJ110） | 降级包ColorOS PJJ110_15.0.0.861(CN01) C.23 | 9.10 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno12（PJV110） | 降级包ColorOS PJV110_15.0.0.1301(CN01) C.45 | 9.53 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno12 Pro（PJW110） | 降级包ColorOS PJW110_15.0.0.962(CN01) C.34 | 9.51 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno13（PKM110） | 降级包ColorOS PKM110_15.0.0.840(CN01) A.60 | 9.78 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno13 Pro（PKK110） | 降级包ColorOS PKK110_15.0.0.863(CN01) A.66 | 9.93 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno14（PLA110） | 降级包ColorOS PLA110_15.0.2.503(CN01) A.45 | 待补充 | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno14 Pro（PKZ110） | 降级包ColorOS PKZ110_15.0.2.610(CN01) A.46 | 10.09 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
-| OPPO Reno9 Pro+（PGW110） | 降级包ColorOS PGW110_15.0.0.1301(CN01) F.16 | 9.11 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO Reno10 Pro+（PHU110） | 降级包ColorOS PHU110_15.0.0.1301(CN01) F.86 | 9.26 GB | [夸克](https://pan.quark.cn/s/545f5d815ff2) |
+| OPPO Reno11（PJH110） | 降级包ColorOS PJH110_15.0.0.870(CN01) C.90 | 9.37 GB | [夸克](https://pan.quark.cn/s/63be8f5b0e4a) |
+| OPPO Reno11 Pro（PJJ110） | 降级包ColorOS PJJ110_15.0.0.861(CN01) C.23 | 9.10 GB | [夸克](https://pan.quark.cn/s/f39aae741093) |
+| OPPO Reno12（PJV110） | 降级包ColorOS PJV110_15.0.0.1301(CN01) C.45 | 9.53 GB | [夸克](https://pan.quark.cn/s/d7ecf9b9f4eb) |
+| OPPO Reno12 Pro（PJW110） | 降级包ColorOS PJW110_15.0.0.962(CN01) C.34 | 9.51 GB | [夸克](https://pan.quark.cn/s/b94323757896) |
+| OPPO Reno13（PKM110） | 降级包ColorOS PKM110_15.0.0.840(CN01) A.60 | 9.78 GB | [夸克](https://pan.quark.cn/s/2cc174ed7108) |
+| OPPO Reno13 Pro（PKK110） | 降级包ColorOS PKK110_15.0.0.863(CN01) A.66 | 9.93 GB | [夸克](https://pan.quark.cn/s/11fe8b944a7a) |
+| OPPO Reno14（PLA110） | 降级包ColorOS PLA110_15.0.2.503(CN01) A.45 | 10.39 GB | [夸克](https://pan.quark.cn/s/833e78cda6e9) |
+| OPPO Reno14 Pro（PKZ110） | 降级包ColorOS PKZ110_15.0.2.610(CN01) A.46 | 10.09 GB | [夸克](https://pan.quark.cn/s/1f64c9df4637) |
+| OPPO Reno9 Pro+（PGW110） | 降级包ColorOS PGW110_15.0.0.1301(CN01) F.16 | 9.11 GB | [夸克](https://pan.quark.cn/s/73b91eba069d) |
 
 ## 真我
 

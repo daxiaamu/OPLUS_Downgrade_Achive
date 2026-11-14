@@ -6,10 +6,10 @@
 
 | 降级方向 | 版本目录数 | Markdown |
 |---|---:|---|
-| OS 17 → OS 16 | 108 | [查看汇总](docs/OS17-to-OS16.md) |
-| OS 16 → OS 15 | 132 | [查看汇总](docs/OS16-to-OS15.md) |
-| OS 15 → OS 14 | 94 | [查看汇总](docs/OS15-to-OS14.md) |
-| OS 14 → OS 13 | 85 | [查看汇总](docs/OS14-to-OS13.md) |
+| OS 17 → OS 16 | 116 | [查看汇总](docs/OS17-to-OS16.md) |
+| OS 16 → OS 15 | 138 | [查看汇总](docs/OS16-to-OS15.md) |
+| OS 15 → OS 14 | 100 | [查看汇总](docs/OS15-to-OS14.md) |
+| OS 14 → OS 13 | 89 | [查看汇总](docs/OS14-to-OS13.md) |
 
 仅按 OPPO、真我、一加三个品牌分组，保留“夸克／百度／迅雷”全称。暂缺分享链接的条目请访问 [oplusrom.com](https://oplusrom.com) 查看更新。
 
