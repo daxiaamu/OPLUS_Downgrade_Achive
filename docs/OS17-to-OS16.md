@@ -1,10 +1,10 @@
-# OPPO、真我、一加：ColorOS 17 降级至 16 官方降级包汇总
+# OPPO、真我、一加：ColorOS 17 降级至 16 降级包汇总
 
 链接失效请反馈酷安@大侠阿木
 
 说明
 
-1. 以下降级包整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.18**。持续收录中
+1. 以下降级包整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.23**。持续收录中
 2. 刷入降级包可以在 ROOT 后使用 [oplus盒子](https://optool.daxiaamu.com/oplusbox)的【增强型本地安装】功能，或[联系大侠阿木降级](https://120.oplus.icu)。
 
 按海外机型名称、型号代码和地区选择，不能仅凭对应国行机型名称混用。
@@ -20,11 +20,13 @@
 | OPPO A7i（PLT150） | 降级包ColorOS PLT150_16.0.5.1000(CN01) C.54 | 7.80 GB | [夸克](https://pan.quark.cn/s/184b7f88a958) · [迅雷](https://pan.xunlei.com/s/VP6g3WCFsnC0iki3-T4yMRYtA1?pwd=383k) · [百度](https://pan.baidu.com/s/1YD3KPGeco0thokgGxz09Ww?pwd=dxam) |
 | OPPO Find N2（PGU110） | 降级包ColorOS PGU110_16.0.5.1300(CN01) H.21 | 10.47 GB | [夸克](https://pan.quark.cn/s/4759e711fdce) · [迅雷](https://pan.xunlei.com/s/VP54ePF8pG4_t5Cf5KhySyRXA1?pwd=mkfa) |
 | OPPO Find N3（PHN110） | 降级包ColorOS PHN110_16.0.5.1201(CN01) H.22 | 9.97 GB | [夸克](https://pan.quark.cn/s/aaee07ef0e92) · [迅雷](https://pan.xunlei.com/s/VP5RBKo9sQZQn3E5RWTCCqNGA1?pwd=4672) |
+| OPPO Find N3 Flip（PHT110） | 降级包ColorOS PHT110_16.0.3.510(CN01) H.27 | 10.56 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find N5（PKH110） | 降级包ColorOS PKH110_16.0.9.400(CN01) C.95 | 11.13 GB | [夸克](https://pan.quark.cn/s/f0c047fd2f21) · [迅雷](https://pan.xunlei.com/s/VP5vHIi3wEuS-ZOp1qiEgu1DA1?pwd=sy5y) |
 | OPPO Find N5 卫星通信版（PKH120）（适用源版本待确认） | 降级包ColorOS PKH120_16.0.9.400(CN01) C.95 | 11.13 GB | [夸克](https://pan.quark.cn/s/e9a7a2eba62c) · [迅雷](https://pan.xunlei.com/s/VP6g3WMb9JWCpHwHEWnqglZrA1?pwd=x7vs) · [百度](https://pan.baidu.com/s/1s_4rpNZfxinCTyku7RKWew?pwd=dxam) |
 | OPPO Find N6（PLP110） | 降级包ColorOS PLP110_16.0.9.400(CN01) A.39 | 11.99 GB | [夸克](https://pan.quark.cn/s/92b86d9df895) · [迅雷](https://pan.xunlei.com/s/VP57DVOfI0x_THAUvv0NmWueA1?pwd=7ps5) · [百度](https://pan.baidu.com/s/134uUzOxNPN_w9ioQ0SvKCQ?pwd=dxam) |
 | OPPO Find N6 卫星通信版（PLP120）（适用源版本待确认） | 降级包ColorOS PLP120_16.0.9.400(CN01) A.39 | 11.78 GB | [夸克](https://pan.quark.cn/s/5c9739235376) · [迅雷](https://pan.xunlei.com/s/VP6g3WWWI4E1mKyw3xVP7GkmA1?pwd=26zn) · [百度](https://pan.baidu.com/s/1YaD8PwYKc3gJoKKOlnV4RQ?pwd=dxam) |
 | OPPO Find X6（PGFM10） | 降级包ColorOS PGFM10_16.0.5.1001(CN01) H.14 | 10.22 GB | [夸克](https://pan.quark.cn/s/4740060380aa) · [迅雷](https://pan.xunlei.com/s/VP6g3WfY9JWCpHwHEWnqglf6A1?pwd=f6wy) · [百度](https://pan.baidu.com/s/1hRp9ymU9fadB0QDqr36tZg?pwd=dxam) |
+| OPPO Find X6 Pro（PGEM10） | 降级包ColorOS PGEM10_16.0.5.1201(CN01) H.11 | 待补充（目录仅有说明） | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X7（PHZ110） | 降级包ColorOS PHZ110_16.0.10.500(CN01) F.35 | 10.40 GB | [夸克](https://pan.quark.cn/s/6e095f684cb1) · [迅雷](https://pan.xunlei.com/s/VP4UCNSdQ2CAWuJgR92d12FfA1?pwd=5exd) |
 | OPPO Find X7 Ultra（PHY110） | 降级包ColorOS PHY110_16.0.9.400(CN01) F.27 | 10.62 GB | [夸克](https://pan.quark.cn/s/99e9f436bc61) · [迅雷](https://pan.xunlei.com/s/VP66GX3Q-1nmTRJMMB6OK92sA1?pwd=wawh) · [百度](https://pan.baidu.com/s/1MYQd_qbVKZCmfC4gPI5W5g?pwd=dxam) |
 | OPPO Find X7 Ultra 卫星通信版（PHY120） ※ | 降级包ColorOS PHY120_16.0.9.400(CN01) F.27 | 10.36 GB | [夸克](https://pan.quark.cn/s/27a2d727ceac) · [迅雷](https://pan.xunlei.com/s/VP6g3WpzNN9QDCos-3RhKBtyA1?pwd=x9nr) · [百度](https://pan.baidu.com/s/1DOMMBiGPa2EBQtt-QpmeKQ?pwd=dxam) |
@@ -37,6 +39,8 @@
 | OPPO Find X8s+（PLB110） | 降级包ColorOS PLB110_16.0.9.400(CN01) C.60 | 10.83 GB | [夸克](https://pan.quark.cn/s/ed626c53d708) · [迅雷](https://pan.xunlei.com/s/VP6g3X9PUiYvzUaMfSRe794TA1?pwd=iivt) · [百度](https://pan.baidu.com/s/1j4WpDnfWykI2kGdhUgX7BA?pwd=dxam) |
 | OPPO Find X9（PLJ110） | 降级包ColorOS PLJ110_16.0.9.401(CN01) A.14 | 11.53 GB | [夸克](https://pan.quark.cn/s/1ee0f3204ce3) · [迅雷](https://pan.xunlei.com/s/VP4UNCBTaIuJWky0O6fMGV0DA1?pwd=ta3g) · [百度](https://pan.baidu.com/s/1Gvz5VsjS3FrB3s5J7jszLQ?pwd=dxam) |
 | OPPO Find X9 Pro（PLG110） | 降级包 PLG110_16.0.8.301(CN01) A.13 | 11.55 GB | [夸克](https://pan.quark.cn/s/b8cbb2c56b0c) · [迅雷](https://pan.xunlei.com/s/VP5fxlLQMUBGedS3T3EM58H6A1?pwd=fn35) · [百度](https://pan.baidu.com/s/1YOfhRK_syY28ahy72Xy4gg?pwd=dxam) |
+| OPPO Find X9 Pro（PLG110） | 降级包ColorOS PLG110_16.0.8.301(CN01) A.13 | 11.55 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO Find X9 Pro 卫星通信版（PLG120） | 降级包ColorOS PLG120_16.0.8.301(CN01) A.13 | 待补充（目录仅有说明） | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X9 Ultra（PMA110） | 降级包ColorOS PMA110_16.0.8.306(CN01) A.55 | 12.32 GB | [夸克](https://pan.quark.cn/s/73301ee168db) · [迅雷](https://pan.xunlei.com/s/VP5fyC3SYIUqzc67_buT2xKFA1?pwd=5a65) · [百度](https://pan.baidu.com/s/133BDZf7Z5XJscERpx5QVxQ?pwd=dxam) |
 | OPPO Find X9 Ultra 卫星通信版（PMA120） | 降级包ColorOS PMA120_16.0.8.306(CN01) A.55 | 12.34 GB | [夸克](https://pan.quark.cn/s/b04976427a71) · [迅雷](https://pan.xunlei.com/s/VP4UDL3r4F98NzIt1tUKrO2DA1?pwd=wmpd) · [百度](https://pan.baidu.com/s/1wiV3hSeWnjCV0MzeRteWIw?pwd=dxam) |
 | OPPO Find X9s Pro（PME110） | 降级包ColorOS PME110_16.0.9.402(CN01) A.59 | 11.68 GB | [夸克](https://pan.quark.cn/s/38f6465952d9) · [迅雷](https://pan.xunlei.com/s/VP4woHPiJBM8qX3M2ZLXrxFaA1?pwd=eauj) · [百度](https://pan.baidu.com/s/10Mf_-hLp3A7JwkJsQg58LQ?pwd=dxam) |
@@ -49,9 +53,13 @@
 | OPPO Pad 3（OPD2405） | 降级包ColorOS OPD2405_16.0.5.1301(CN01) C.22 | 9.24 GB | [夸克](https://pan.quark.cn/s/b6c654c7cdab) · [迅雷](https://pan.xunlei.com/s/VP6g3Y6V4O3gArNAIK6jpFS-A1?pwd=iz86) · [百度](https://pan.baidu.com/s/1MlWj0rwQwXbxBtQ0EMpZDw?pwd=dxam) |
 | OPPO Pad 3 Pro（OPD2401） ※ | 降级包ColorOS OPD2401_16.0.5.1201(CN01) F.88 | 9.05 GB | [夸克](https://pan.quark.cn/s/dff55ba08ed8) · [迅雷](https://pan.xunlei.com/s/VP6g3XxOoVVqiI_c4aNxzCD1A1?pwd=a9d8) · [百度](https://pan.baidu.com/s/15qjGgZcxv2SQWHee8CoiBQ?pwd=dxam) |
 | OPPO Pad 4 Pro（OPD2409） ※ | 降级包ColorOS OPD2409_16.0.8.300(CN01) C.33 | 9.31 GB | [夸克](https://pan.quark.cn/s/bb9fb0511046) · [迅雷](https://pan.xunlei.com/s/VP6g3YJ9c8wSXH-ay8_E_JhKA1?pwd=uer5) · [百度](https://pan.baidu.com/s/1GDmL_39mA0FU3DfPI8Zo4g?pwd=dxam) |
+| OPPO Pad 5（OPD2506） | 降级包ColorOS OPD2506_16.0.10.500(CN01) A.35 | 11.29 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Pad 5 Pro（OPD2511） | 降级包ColorOS OPD2511_16.0.9.401(CN01) A.32 | 9.59 GB | [夸克](https://pan.quark.cn/s/bf7601d75668) · [迅雷](https://pan.xunlei.com/s/VP5vKgq0wEuS-ZOp1qiEkGA3A1?pwd=6rsj) |
 | OPPO Pad 6（OPD2601）（适用源版本待确认） | 降级包ColorOS OPD2601_16.0.10.500(CN01) A.18 | 10.33 GB | [夸克](https://pan.quark.cn/s/463f8820ab61) · [迅雷](https://pan.xunlei.com/s/VP6g3YWt4MaN5bM2sgu9bRx9A1?pwd=s9gy) · [百度](https://pan.baidu.com/s/1PTG9hmMW9p7waluPqC4gQQ?pwd=dxam) |
+| OPPO Pad Air5（OPD2501） | 降级包ColorOS OPD2501_16.0.5.1301(CN01) A.39 | 10.34 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Pad Mini（OPD2515） | 降级包ColorOS OPD2515_16.0.8.310(CN01) A.32 | 9.29 GB | [夸克](https://pan.quark.cn/s/bfb46e747229) · [迅雷](https://pan.xunlei.com/s/VP4Uh1rQPOahgsDcryaZ4_EYA1?pwd=ntpm) · [百度](https://pan.baidu.com/s/12Sa9TD0nrlx9qV6qi49z0Q?pwd=dxam) |
+| OPPO Reno13（PKM110） | 降级包ColorOS PKM110_16.0.5.1200(CN01) C.85 | 待补充（目录仅有说明） | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO Reno13 Pro（PKK110） | 降级包ColorOS PKK110_16.0.5.1200(CN01) C.84 | 待补充（目录仅有说明） | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Reno14（PLA110） | 降级包ColorOS PLA110_16.0.10.600(CN01) C.77 | 11.25 GB | [夸克](https://pan.quark.cn/s/788ab93d76b4) · [迅雷](https://pan.xunlei.com/s/VP6g3YqhAzG315JB6pQpY5kSA1?pwd=xsa7) · [百度](https://pan.baidu.com/s/1l1Aj6rmS7UytO5C0pliZOQ?pwd=dxam) |
 | OPPO Reno14 Pro（PKZ110） | 降级包ColorOS PKZ110_16.0.9.400(CN01) C.33 | 10.48 GB | [夸克](https://pan.quark.cn/s/8195cb68eea0) · [迅雷](https://pan.xunlei.com/s/VP6g3Ygeiv3eNrjo3XXgjSwjA1?pwd=6bg4) · [百度](https://pan.baidu.com/s/16ZWFxWG7PcQHFa7jegso1w?pwd=dxam) |
 | OPPO Reno15（PLW110） | 降级包ColorOS PLW110_16.0.10.600(CN01) A.71 | 11.32 GB | [夸克](https://pan.quark.cn/s/55a1d671aa4c) · [迅雷](https://pan.xunlei.com/s/VP6g3ZAFfhFa4ua8cRkGz-MJA1?pwd=bqhg) · [百度](https://pan.baidu.com/s/1HTKIwRVTow4iNEfVjFbxdg?pwd=dxam) |
@@ -69,10 +77,10 @@
 | 真我 14 Pro（RMX5055） | 降级包RealmeUI RMX5055_16.0.5.1300(CN01) F.89 | 10.85 GB | [夸克](https://pan.quark.cn/s/3a03d0a6337b) · [迅雷](https://pan.xunlei.com/s/VP6g3aiTTitwBPnNGz3bFJYgA1?pwd=2xuc) · [百度](https://pan.baidu.com/s/18VOMgOxieop4A5P9W_uh8w?pwd=dxam) |
 | 真我 14 Pro+（RMX5050） | 降级包RealmeUI RMX5050_16.0.5.1300(CN01) F.30 | 10.81 GB | [夸克](https://pan.quark.cn/s/430916c3fb3a) · [迅雷](https://pan.xunlei.com/s/VP6g3aZZVSp_KWxXD1N0Yw2uA1?pwd=h8a2) · [百度](https://pan.baidu.com/s/1PfZ-x1hZvWgr730vUY-iEA?pwd=dxam) |
 | 真我 15（RMX5105） | 降级包RealmeUI RMX5105_16.0.5.1210(CN01) C.31 | 10.52 GB | [夸克](https://pan.quark.cn/s/438b4c7acca0) · [迅雷](https://pan.xunlei.com/s/VP6g3bCSimZ6zHlMnuS5W3sfA1?pwd=dvq2) · [百度](https://pan.baidu.com/s/1DCQaUBtnRJwhSnoOCD-44Q?pwd=dxam) |
-| 真我 15 Pro（RMX5100） | 降级包RealmeUI RMX5100_16.0.5.1000(CN01) C.53 | 10.43 GB | [夸克](https://pan.quark.cn/s/a405bbad7cc2) · [迅雷](https://pan.xunlei.com/s/VP6g3b1mPlc2oOhYTEhkCbYtA1?pwd=hnmt) · [百度](https://pan.baidu.com/s/1C_ireHKmo_xfPn46L4nw_A?pwd=dxam) |
+| 真我 15 Pro（RMX5100） | 降级包RealmeUI RMX5100_16.0.5.1000(CN01) C.53 | 10.43 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | 真我 15T（RMX5112） | 降级包RealmeUI RMX5112_16.0.5.1000(CN01) F.24 | 8.46 GB | [夸克](https://pan.quark.cn/s/c7d42907f402) · [迅雷](https://pan.xunlei.com/s/VP6g3bNbNN9QDCos-3RhKIZcA1?pwd=y5hk) · [百度](https://pan.baidu.com/s/1xrVDqVTwuDPt0kjMex83tA?pwd=dxam) |
 | 真我 GT Neo6（RMX3852） | 降级包RealmeUI RMX3852_16.0.5.1200(CN01) F.69 | 10.84 GB | [夸克](https://pan.quark.cn/s/a6f441a4aeeb) · [迅雷](https://pan.xunlei.com/s/VP6V_zyx2VrO_nBu24Vv9OWfA1?pwd=wfcz) · [百度](https://pan.baidu.com/s/19GGjlx358t_ckHRWPCEImQ?pwd=dxam) |
-| 真我 GT Neo6 SE（RMX3850） | 降级包RealmeUI RMX3850_16.0.5.1200(CN01) F.69 | 10.50 GB | [夸克](https://pan.quark.cn/s/668ecf58cac8) · [迅雷](https://pan.xunlei.com/s/VP6g3bXyrPJRw4HQ0Zuemo8IA1?pwd=rip5) · [百度](https://pan.baidu.com/s/1lquKjFOtz-LB9rq3_UYfbA?pwd=dxam) · [百度](https://pan.baidu.com/s/1ObOvKgxMayVyvINOeFnQyA?pwd=dxam) |
+| 真我 GT Neo6 SE（RMX3850） | 降级包RealmeUI RMX3850_16.0.5.1200(CN01) F.69 | 10.50 GB | [夸克](https://pan.quark.cn/s/a14d89643b4e) · [迅雷](https://pan.xunlei.com/s/VP6oMTtgDMNS_bi2MeJM4WLVA1?pwd=r4ne) · [百度](https://pan.baidu.com/s/1RggehuU1wS-6HUne_hPTQg?pwd=dxam) |
 | 真我 GT5 Pro（RMX3888） | 降级包RealmeUI RMX3888_16.0.10.500(CN01) F.35 | 11.00 GB | [夸克](https://pan.quark.cn/s/ee7ce037d1da) · [迅雷](https://pan.xunlei.com/s/VP6Uv5IEcwDI3zZjmtESxW6IA1?pwd=bham) · [百度](https://pan.baidu.com/s/1AKJYYxHWAvWgLHjVDmt6Vg?pwd=dxam) |
 | 真我 GT6（RMX3800） | 降级包RealmeUI RMX3800_16.0.10.510(CN01) F.34 | 11.04 GB | [夸克](https://pan.quark.cn/s/b3a55e6170f4) · [迅雷](https://pan.xunlei.com/s/VP6Uv5bDGo7k8JGWYcXY6f9wA1?pwd=pc3c) · [百度](https://pan.baidu.com/s/1b9d8c3bRk6kXM2WKW1yyAQ?pwd=dxam) |
 | 真我 GT7（RMX6688） | 降级包RealmeUI RMX6688_16.0.8.301(CN01) C.56 | 11.32 GB | [夸克](https://pan.quark.cn/s/28fc566068a5) · [迅雷](https://pan.xunlei.com/s/VP4Ux9LPgNf5S1sNRyYM4f3lA1?pwd=ub5q) · [百度](https://pan.baidu.com/s/1Zw6KufsDsc4xZhRA2EV2rQ?pwd=dxam) |
@@ -82,12 +90,12 @@
 | 真我 GT8 Pro（RMX5200） | 降级包RealmeUI RMX5200_16.0.10.501(CN01) A.73 | 12.39 GB | [夸克](https://pan.quark.cn/s/b008c2654804) · [迅雷](https://pan.xunlei.com/s/VP6Uv6etGWmm_Rff56rQEFwXA1?pwd=qqad) · [百度](https://pan.baidu.com/s/15xLZNQL__-Qpm_BZ2SGGGQ?pwd=dxam) |
 | 真我 GT8 Pro（RMX5200） | 降级包RealmeUI RMX5200_16.0.9.402(CN01) A.71 | 12.44 GB | [夸克](https://pan.quark.cn/s/fb5a7b2c60ba) · [迅雷](https://pan.xunlei.com/s/VP6Uv6swGghLUfkAtLcqv5oBA1?pwd=u7j5) · [百度](https://pan.baidu.com/s/1d3Kg96PclEu-4gCRiSbmMg?pwd=dxam) |
 | 真我 Neo7（RMX5060） | 降级包RealmeUI RMX5060_16.0.9.400(CN01) C.48 | 约 11.01 GB/个，共 2 个包 | [夸克](https://pan.quark.cn/s/c114084bcbb7) · [迅雷](https://pan.xunlei.com/s/VP6IeJcBDfd2gGkoclEdGEExA1?pwd=ffef) · [百度](https://pan.baidu.com/s/1ag-yhE8YUJ8vdcbH2OPVyQ?pwd=dxam) |
-| 真我 Neo7 SE（RMX5080） | 降级包RealmeUI RMX5080_16.0.8.301(CN01) C.54 | 11.23 GB | [夸克](https://pan.quark.cn/s/ec166534889f) · [迅雷](https://pan.xunlei.com/s/VP5SPPbtSQzalm4wSDq1HKJ_A1?pwd=r8fm) · [百度](https://pan.baidu.com/s/1y4i_loEUPRB7LzPSkN5ijw?pwd=dxam) |
+| 真我 Neo7 SE（RMX5080） | 降级包RealmeUI RMX5080_16.0.8.301(CN01) C.54 | 11.23 GB | [夸克](https://pan.quark.cn/s/5b37a7a8deb9) · [迅雷](https://pan.xunlei.com/s/VP6oNR804zgUD9hLsML--LC9A1?pwd=b2af) · [百度](https://pan.baidu.com/s/18I81XVrGYH2obvEef3z5NQ?pwd=dxam) |
 | 真我 Neo7 Turbo（RMX5062） | 降级包RealmeUI RMX5062_16.0.9.400(CN01) C.31 | 10.99 GB | [夸克](https://pan.quark.cn/s/f4ee222b5cc6) · [迅雷](https://pan.xunlei.com/s/VP6Uv7CslAOekvaS7k2GUkE-A1?pwd=8f4h) · [百度](https://pan.baidu.com/s/100FFNy7MooRmq_LjLVMJ3w?pwd=dxam) |
-| 真我 Neo7x（RMX5071） | 降级包RealmeUI RMX5071_16.0.5.1300(CN01) F.26 | 9.99 GB | [夸克](https://pan.quark.cn/s/63f1df908817) · [迅雷](https://pan.xunlei.com/s/VP6g3c0SAzG315JB6pQpY8EPA1?pwd=hns6) · [百度](https://pan.baidu.com/s/1yu4NW7-ooiJ_suXgZ0e0gA?pwd=dxam) |
+| 真我 Neo7x（RMX5071） | 降级包RealmeUI RMX5071_16.0.5.1300(CN01) F.26 | 9.99 GB | [夸克](https://pan.quark.cn/s/c5072279124a) · [迅雷](https://pan.xunlei.com/s/VP6oOAmZ6hk8EypE3IyR_yL1A1?pwd=6b5t) · [百度](https://pan.baidu.com/s/1UbtK3MhINfW0Bt5CIt1m4g?pwd=dxam) |
 | 真我 Neo8（RMX8899） | 降级包RealmeUI RMX8899_16.0.10.500(CN01) A.41 | 11.85 GB | [夸克](https://pan.quark.cn/s/081fdd2b2c31) · [迅雷](https://pan.xunlei.com/s/VP6IeJmw_q2iatBZFaBBEVz2A1?pwd=264x) · [百度](https://pan.baidu.com/s/1aGOZH1x2usvoE8OOmxB_pQ?pwd=dxam) |
-| 真我 V70（RMX3946） | 降级包RealmeUI RMX3946_16.0.5.1210(CN01) C.68 | 8.02 GB | [夸克](https://pan.quark.cn/s/1e04d33b837e) · [迅雷](https://pan.xunlei.com/s/VP6g3cAbi5KFQxtBQGXiu8dZA1?pwd=7nmj) · [百度](https://pan.baidu.com/s/1qpBSpcbcNK-fjbKLMjJ9VQ?pwd=dxam) |
-| 真我 V70s（RMX3948） | 降级包RealmeUI RMX3948_16.0.5.1210(CN01) C.68 | 8.02 GB | [夸克](https://pan.quark.cn/s/5d2a6ee218fb) · [迅雷](https://pan.xunlei.com/s/VP6g3cKsSEK-jXPhEo4C7bmSA1?pwd=fikk) · [百度](https://pan.baidu.com/s/1GDp11yi4acAGHQ5Vu9prrg?pwd=dxam) |
+| 真我 V70（RMX3946） | 降级包RealmeUI RMX3946_16.0.5.1210(CN01) C.68 | 8.02 GB | [夸克](https://pan.quark.cn/s/7f6c8262cceb) · [迅雷](https://pan.xunlei.com/s/VP6oOqLSzztfJXEmuFHygvmRA1?pwd=yifi) · [百度](https://pan.baidu.com/s/1C4wplw8f3jR3fpV-IXBO7A?pwd=dxam) |
+| 真我 V70s（RMX3948） | 降级包RealmeUI RMX3948_16.0.5.1210(CN01) C.68 | 8.02 GB | [夸克](https://pan.quark.cn/s/9d31a09fd948) · [迅雷](https://pan.xunlei.com/s/VP6oPJH8DzTIx2AfYovK6EfvA1?pwd=8gyz) · [百度](https://pan.baidu.com/s/16I5yiJiyyX4kZRIOeAngnQ?pwd=dxam) |
 | 真我 GT8 Pro（RMX5210，印度 IN） | 降级包RealmeUI RMX5210_16.0.3.501(EX01) A.63_IN | 包1 10.06 GB；包2 9.88 GB | [夸克](https://pan.quark.cn/s/455338efb029) · [迅雷](https://pan.xunlei.com/s/VP6g3bh19v7X0yjVu46ziOKRA1?pwd=5jyv) · [百度](https://pan.baidu.com/s/13ku2tmQYrFDxzdBgVV5xVg?pwd=dxam) |
 | 真我 GT8 Pro（RMX5210，印度 IN） | 降级包RealmeUI RMX5210_16.0.5.703(EX01) A.67_IN | 10.10 GB | [夸克](https://pan.quark.cn/s/bca25d94340e) · [迅雷](https://pan.xunlei.com/s/VP6g3braUiYvzUaMfSRe7CogA1?pwd=k72u) · [百度](https://pan.baidu.com/s/1AjGIxJpJmhcJ-bkUR1NLhg?pwd=dxam) |
 
@@ -95,6 +103,7 @@
 
 | 机型 | 版本目录 | 大小 | 下载链接 |
 |---|---|---|---|
+| 一加 11（PHB110） | 降级包ColorOS PHB110_16.0.5.1301(CN01) H.14 | 9.56 GB | [夸克](https://pan.quark.cn/s/42192d853b27) · [迅雷](https://pan.xunlei.com/s/VP6j9rS3Qo7kqoeZmo-YtBVLA1?pwd=qkze) · [百度](https://pan.baidu.com/s/1tYl_DO28ADzpNc39_8AbTQ?pwd=dxam) |
 | 一加 12（PJD110） ※ | 降级包ColorOS PJD110_16.0.10.501(CN01) F.57 | 10.24 GB | [夸克](https://pan.quark.cn/s/954133a5317f) · [迅雷](https://pan.xunlei.com/s/VP4VYModZS9lI9bWY8ySyk4PA1?pwd=vfta) · [百度](https://pan.baidu.com/s/18lN9o2F7rfauwmHHx5tEBg?pwd=dxam) |
 | 一加 13（PJZ110） ※ | 降级包ColorOS PJZ110_16.0.9.402(CN01) C.92 | 10.58 GB | [夸克](https://pan.quark.cn/s/79b7c5160af0) · [迅雷](https://pan.xunlei.com/s/VP5g-CZoVbRIjGlc5W-FzaC7A1?pwd=5g6y) · [百度](https://pan.baidu.com/s/1ZUG0ZXUwAvjiVm86m_5n6g?pwd=dxam) |
 | 一加 13T（PKX110） | 降级包ColorOS PKX110_16.0.10.500(CN01) C.58 | 10.53 GB | [夸克](https://pan.quark.cn/s/1e8b2711c21d) · [迅雷](https://pan.xunlei.com/s/VP5g-GZLub2h30-_XkSrvMmbA1?pwd=uzrg) · [百度](https://pan.baidu.com/s/1emypmCW9NjFMkbf2wnAwvA?pwd=dxam) |
@@ -102,13 +111,13 @@
 | 一加 15T（PLZ110） ※ | 降级包ColorOS PLZ110_16.0.9.400(CN01) A.33 | 11.33 GB | [夸克](https://pan.quark.cn/s/0e07da5fe47c) · [迅雷](https://pan.xunlei.com/s/VP5g0e7lmHByZDsf3OV_MBSrA1?pwd=d2ch) · [百度](https://pan.baidu.com/s/1JF_QvfNVxnkTLFusmuWIfQ?pwd=dxam) |
 | 一加 Ace 3（PJE110） | 降级包ColorOS PJE110_16.0.5.1301(CN01) F.32 | 9.82 GB | [夸克](https://pan.quark.cn/s/cdce37cc3ba2) · [迅雷](https://pan.xunlei.com/s/VP66GqCQqDDpLlqNvdtW3HF_A1?pwd=y8f3) · [百度](https://pan.baidu.com/s/1OsETBhTAzNkhHDdkMUrq1Q?pwd=dxam) |
 | 一加 Ace 3（PJE110YS） | 降级包ColorOS PJE110YS_16.0.5.1002(CN01M001) F.31 | 9.83 GB | [夸克](https://pan.quark.cn/s/38f937e8756f) · [迅雷](https://pan.xunlei.com/s/VP66H63vNRTclkxmrwUdu51iA1?pwd=ncvc) · [百度](https://pan.baidu.com/s/18EsbGNCbFT1bA9ElIX9MZg?pwd=dxam) |
-| 一加 Ace 3 Pro（PJX110） ※ | 降级包ColorOS PJX110_16.0.5.1001(CN01) F.17 | 10.80 GB | [夸克](https://pan.quark.cn/s/2d0e50149951) · [迅雷](https://pan.xunlei.com/s/VP4W76ERfEjkyUwYkQj00CUVA1?pwd=ssve) · [百度](https://pan.baidu.com/s/1teEmzX8pCXNrFl0sWix_7w?pwd=dxam) |
+| 一加 Ace 3 Pro（PJX110） | 降级包ColorOS PJX110_16.0.5.1001(CN01) F.17 | 10.80 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | 一加 Ace 3V（PJF110） | 降级包ColorOS PJF110_16.0.5.1001(CN01) F.15 | 9.75 GB | [夸克](https://pan.quark.cn/s/fd367862659f) · [迅雷](https://pan.xunlei.com/s/VP4o_ezp7QDvpHRlOSG9xddSA1?pwd=k3f2) · [百度](https://pan.baidu.com/s/1cooHRAX7Ahh1RPeLaqcBkA?pwd=dxam) |
 | 一加 Ace 5（PKG110） | 降级包ColorOS PKG110_16.0.9.400(CN01) F.54 | 10.43 GB | [夸克](https://pan.quark.cn/s/b1ad848a48ee) · [迅雷](https://pan.xunlei.com/s/VP4W7ELTPUPwnFuodDy0uLgZA1?pwd=943f) · [百度](https://pan.baidu.com/s/14SC33YJftgl3F-Y_KhWKaw?pwd=dxam) |
-| 一加 Ace 5 竞速版（PLF110） | 降级包ColorOS PLF110_16.0.9.402(CN01) C.64 | 10.40 GB | [夸克](https://pan.quark.cn/s/8aac7437ca2a) · [迅雷](https://pan.xunlei.com/s/VP4WFWVrdzzQ9q6EkX7TXM2VA1?pwd=ewkm) · [百度](https://pan.baidu.com/s/1FFQin16y1bHrMSbPrszO4g?pwd=dxam) |
-| 一加 Ace 5 至尊版（PLC110） | 降级包ColorOS PLC110_16.0.9.400(CN01) C.34 | 10.36 GB | [夸克](https://pan.quark.cn/s/5c8e90467c41) · [迅雷](https://pan.xunlei.com/s/VP4We5eE1gvQUGKQPLqieL2lA1?pwd=ie95) · [百度](https://pan.baidu.com/s/1QebSnGE3x7okKW6cdwLFcg?pwd=dxam) |
 | 一加 Ace 5 Pro（PKR110） | 降级包ColorOS PKR110_16.0.9.400(CN01) C.27 | 10.32 GB | [夸克](https://pan.quark.cn/s/a001c5045d31) · [迅雷](https://pan.xunlei.com/s/VP4W7iBVrh_SbP_Nwa5gR0vZA1?pwd=3mez) · [百度](https://pan.baidu.com/s/1NeLqz7eVtX_h1Zw8AZ6bXA?pwd=dxam) |
 | 一加 Ace 5 Pro（PKR110） | 降级包ColorOS PKR110_16.0.9.401(CN01) C.28 | 10.32 GB | [夸克](https://pan.quark.cn/s/b7669b61be3e) · [迅雷](https://pan.xunlei.com/s/VP4WAAZl2mWRwRCwyQl2v90aA1?pwd=8jje) · [百度](https://pan.baidu.com/s/15dt6CYydoqRlf7Ubn_5n-Q?pwd=dxam) |
+| 一加 Ace 5 竞速版（PLF110） | 降级包ColorOS PLF110_16.0.9.402(CN01) C.64 | 10.40 GB | [夸克](https://pan.quark.cn/s/8aac7437ca2a) · [迅雷](https://pan.xunlei.com/s/VP4WFWVrdzzQ9q6EkX7TXM2VA1?pwd=ewkm) · [百度](https://pan.baidu.com/s/1FFQin16y1bHrMSbPrszO4g?pwd=dxam) |
+| 一加 Ace 5 至尊版（PLC110） | 降级包ColorOS PLC110_16.0.9.400(CN01) C.34 | 10.36 GB | [夸克](https://pan.quark.cn/s/5c8e90467c41) · [迅雷](https://pan.xunlei.com/s/VP4We5eE1gvQUGKQPLqieL2lA1?pwd=ie95) · [百度](https://pan.baidu.com/s/1QebSnGE3x7okKW6cdwLFcg?pwd=dxam) |
 | 一加 Ace 6（PLQ110） ※ | 降级包ColorOS PLQ110_16.0.9.402(CN01) A.56 | 10.57 GB | [夸克](https://pan.quark.cn/s/00efef112b42) · [迅雷](https://pan.xunlei.com/s/VP4WeNAcS-yJwwRjLHyzW7b7A1?pwd=hgy7) · [百度](https://pan.baidu.com/s/1oWcLo2SpWzwWaIsUhCKDdQ?pwd=dxam) |
 | 一加 Ace 6 至尊版（PMB110） | 降级包ColorOS PMB110_16.0.9.400(CN01) A.23 | 约 10.60 GB/个，共 2 个包 | [夸克](https://pan.quark.cn/s/0a346e843292) · [迅雷](https://pan.xunlei.com/s/VP4WeaYSeBchIScb-yd2iVU-A1?pwd=jpvv) · [百度](https://pan.baidu.com/s/1qvxC9ei4PvSE6iIljfbNyg?pwd=dxam) |
 | 一加 Ace 6T（PLR110） | 降级包ColorOS PLR110_16.0.10.500(CN01) A.65 | 10.55 GB | [夸克](https://pan.quark.cn/s/230fff9adfcd) · [迅雷](https://pan.xunlei.com/s/VP4Wfg_ceBchIScb-yd2jbljA1?pwd=ybfr) · [百度](https://pan.baidu.com/s/1TTyMN6RAnfynEE6BmkS1xg?pwd=dxam) |

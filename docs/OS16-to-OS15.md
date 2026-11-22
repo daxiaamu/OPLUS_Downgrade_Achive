@@ -1,8 +1,8 @@
-# OPPO、真我、一加：OS 16 降级至 OS 15 官方降级包汇总
+# OPPO、真我、一加：OS 16 降级至 OS 15 降级包汇总
 
 链接失效请反馈酷安@大侠阿木
 
-整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.18**。
+整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.23**。
 
 按降级目录的目标版本归档，包含国行及海外版；具体适用源版本、地区及刷入要求请以对应机型说明为准。大小按十进制 GB 统计，仅提供网盘分享链接。
 
@@ -13,8 +13,8 @@
 | 机型 | 版本目录 | 大小 | 下载链接 |
 |---|---|---|---|
 | OPPO A5（PKQ110） | 降级包ColorOS PKQ110_15.0.0.991(CN01) A.18 | 7.42 GB | [夸克](https://pan.quark.cn/s/974e53ef3030) |
-| OPPO A5 活力版（PKV110） | 降级包ColorOS PKV110_15.0.0.1201(CN01) C.42 | 7.00 GB | [夸克](https://pan.quark.cn/s/c816174f1d1d) |
 | OPPO A5 Pro（PKP110） | 降级包ColorOS PKP110_15.0.0.1356(CN01) A.41 | 8.79 GB | [夸克](https://pan.quark.cn/s/f91899a34cc3) |
+| OPPO A5 活力版（PKV110） | 降级包ColorOS PKV110_15.0.0.1201(CN01) C.42 | 7.00 GB | [夸克](https://pan.quark.cn/s/c816174f1d1d) |
 | OPPO A6（PLS120） | 降级包ColorOS PLS120_15.0.2.804(CN01) A.39 | 7.33 GB | [夸克](https://pan.quark.cn/s/a3a6083cc08c) |
 | OPPO A6 GT（PLL110） | 降级包ColorOS PLL110_15.0.2.810(CN01) A.23 | 7.46 GB | [夸克](https://pan.quark.cn/s/e97ebcaf5a22) |
 | OPPO A6 Pro（PLN110） | 降级包ColorOS PLN110_15.0.2.802(CN01) A.23 | 8.96 GB | [夸克](https://pan.quark.cn/s/22bd5d1418dc) |
@@ -146,9 +146,9 @@
 | 一加 Ace 5（PKG110） | 降级包ColorOS PKG110_15.0.0.850(CN01) A.62 | 9.86 GB | [夸克](https://pan.quark.cn/s/b78c10bf35a5) · [百度](https://pan.baidu.com/s/1sH-s9Lpiu0sKtWk8ZU958Q?pwd=dxam) |
 | 一加 Ace 5（PKG110） | 降级包ColorOS PKG110_15.0.0.862(CN01) A.65 | 9.85 GB | [夸克](https://pan.quark.cn/s/9a7750cd63b9) · [百度](https://pan.baidu.com/s/16T7SI5POl1p4eY4C2IS2-w?pwd=dxam) |
 | 一加 13R（CPH2691，海外版） | 降级包OxygenOS CPH2691_15.0.0.850(EX01) C.61 | 7.37 GB | [夸克](https://pan.quark.cn/s/d27b54f80f2d) · [百度](https://pan.baidu.com/s/1HIXMUbpk08ZV2oggIe1ctA?pwd=dxam) |
+| 一加 Ace 5 Pro（PKR110） | 降级包ColorOS PKR110_15.0.0.861(CN01) A.41 | 9.63 GB | [夸克](https://pan.quark.cn/s/d1cc5cb5a3a8) · [百度](https://pan.baidu.com/s/1H9Mh0rGbYOcsMZnDu--N7w?pwd=dxam) |
 | 一加 Ace 5 竞速版（PLF110） | 降级包ColorOS PLF110_15.0.2.410(CN01) A.23 | 9.55 GB | [夸克](https://pan.quark.cn/s/42834e2500c2) · [百度](https://pan.baidu.com/s/1maZRhUsWp5EfhFBYB-lYSQ?pwd=dxam) |
 | 一加 Ace 5 至尊版（PLC110） | 降级包ColorOS PLC110_15.0.2.501(CN01) A.21 | 9.74 GB | [夸克](https://pan.quark.cn/s/4fc61e4e1052) · [百度](https://pan.baidu.com/s/1Q6iHAeEcopcaj6lY7wH0bw?pwd=dxam) |
-| 一加 Ace 5 Pro（PKR110） | 降级包ColorOS PKR110_15.0.0.861(CN01) A.41 | 9.63 GB | [夸克](https://pan.quark.cn/s/d1cc5cb5a3a8) · [百度](https://pan.baidu.com/s/1H9Mh0rGbYOcsMZnDu--N7w?pwd=dxam) |
 | 一加 Open（CPH2551，印度 IN） | 降级包OxygenOS CPH2551_15.0.0.851(EX01) F.87_IN | 7.61 GB | [夸克](https://pan.quark.cn/s/39999b50eaab) · [百度](https://pan.baidu.com/s/14Q3fK0x_ITqdQRfDw6dZhA?pwd=dxam) |
 | 一加平板（OPD2407） | 降级包ColorOS OPD2407_15.0.0.1351(CN01) A.39 | 8.06 GB | [夸克](https://pan.quark.cn/s/04be888de6b0) · [百度](https://pan.baidu.com/s/11-tqc86gJp20Kqumut6axA?pwd=dxam) |
 | 一加平板 2 Pro（OPD2413） | 降级包ColorOS OPD2413_15.0.1.810(CN01) A.40 | 7.33 GB | [夸克](https://pan.quark.cn/s/3fd4d3ad8ea2) · [百度](https://pan.baidu.com/s/1zZDppdqcQ85NtAgNuD1Ewg?pwd=dxam) |

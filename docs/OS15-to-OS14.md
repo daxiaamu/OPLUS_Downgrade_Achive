@@ -1,8 +1,8 @@
-# OPPO、真我、一加：OS 15 降级至 OS 14 官方降级包汇总
+# OPPO、真我、一加：OS 15 降级至 OS 14 降级包汇总
 
 链接失效请反馈酷安@大侠阿木
 
-整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.18**。
+整理自 [oplusrom.com](https://oplusrom.com)，更新至 **2026.11.23**。
 
 按降级目录的目标版本归档，包含国行及海外版；具体适用源版本、地区及刷入要求请以对应机型说明为准。大小按十进制 GB 统计，仅提供网盘分享链接。
 
@@ -12,12 +12,14 @@
 
 | 机型 | 版本目录 | 大小 | 下载链接 |
 |---|---|---|---|
-| OPPO A3 活力版（PKD110） | 降级包ColorOS PKD110_14.0.1.734(CN01) A.23 | 6.59 GB | [夸克](https://pan.quark.cn/s/4d35cd123ac2) |
 | OPPO A3 Pro（PJY110） | 降级包ColorOS PJY110_14.0.1.1300(CN01) A.27 | 7.96 GB | [夸克](https://pan.quark.cn/s/4f8f222ed2f9) |
+| OPPO A3 活力版（PKD110） | 降级包ColorOS PKD110_14.0.1.734(CN01) A.23 | 6.59 GB | [夸克](https://pan.quark.cn/s/4d35cd123ac2) |
+| OPPO A3i（PKL110） | 降级包ColorOS PKL110_14.0.1.1103(CN01) A.13 | 6.66 GB | [夸克](https://pan.quark.cn/s/57bf9796e5ea) |
 | OPPO A3x（PKD130） | 降级包ColorOS PKD130_14.0.1.734(CN01) A.23 | 6.56 GB | [夸克](https://pan.quark.cn/s/205b90ca05ce) |
 | OPPO Find N2（PGU110） | 降级包ColorOS PGU110_14.0.0.711(CN01) C.82 | 9.25 GB | [夸克](https://pan.quark.cn/s/1e07ca903071) · [迅雷](https://pan.xunlei.com/s/VP53Je1RpBonJnxTPHEbtkfCA1?pwd=eeqz) |
 | OPPO Find N2 Flip（PGT110） | 降级包ColorOS PGT110_14.0.0.550(CN01) C.78 | 9.42 GB | [夸克](https://pan.quark.cn/s/1882cbf695a9) |
 | OPPO Find N3（PHN110） | 降级包ColorOS PHN110_14.0.0.841(CN01) C.21 | 7.69 GB | [夸克](https://pan.quark.cn/s/9c0dabe8b155) · [迅雷](https://pan.xunlei.com/s/VP5QhgYCxOKD5aCTFgTP_iZGA1?pwd=96s6) |
+| OPPO Find N3 Flip（PHT110） | 降级包ColorOS PHT110_14.0.0.810(CN01) C.55 | 9.90 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Find X5 Pro（PFEM10） | 降级包ColorOS PFEM10_14.0.0.920(CN01) F.76 | 8.54 GB | [夸克](https://pan.quark.cn/s/fe657e49a252) |
 | OPPO Find X5 Pro 天玑版（PFFM20） | 降级包ColorOS PFFM20_14.0.0.660(CN01) F.37 | 8.54 GB | [夸克](https://pan.quark.cn/s/53075053206d) |
 | OPPO Find X6（PGFM10） | 降级包ColorOS PGFM10_14.0.0.830(CN01) C.90 | 9.29 GB | [夸克](https://pan.quark.cn/s/908aac51934b) |
@@ -32,6 +34,7 @@
 | OPPO Reno12（PJV110） | 降级包ColorOS PJV110_14.1.0.605(CN01) A.65 | 9.30 GB | [夸克](https://pan.quark.cn/s/beb8e6ed24d2) |
 | OPPO Reno12 Pro（PJW110） | 降级包ColorOS PJW110_14.1.0.420(CN01) A.65 | 9.26 GB | [夸克](https://pan.quark.cn/s/c6cedf4b3cd3) |
 | OPPO Reno8 Pro+（PFZM10） | 降级包ColorOS PFZM10_14.0.0.640(CN01) F.57 | 8.98 GB | [夸克](https://pan.quark.cn/s/9e4a574309ee) |
+| OPPO Reno9 Pro（PGX110） | 降级包ColorOS PGX110_14.0.0.580(CN01) C.81 | 8.79 GB | [夸克](https://pan.quark.cn/s/40c10907df17) |
 | OPPO Reno9 Pro+（PGW110） | 降级包ColorOS PGW110_14.0.0.606(CN01) C.32 | 7.76 GB | [夸克](https://pan.quark.cn/s/d6614b6697d4) |
 
 ## 真我
@@ -58,8 +61,8 @@
 | 真我 GT Neo5 SE（RMX3700） | 降级包RealmeUI RMX3700_14.0.0.903(CN01) C.33 | 约 7.75 GB/个，共 2 个包 | [夸克](https://pan.quark.cn/s/7afb0577d004) |
 | 真我 GT Neo6（RMX3852） | 降级包RealmeUI RMX3852_14.0.1.617(CN01) A.24 | 约 8.02 GB/个，共 2 个包 | [夸克](https://pan.quark.cn/s/c091366d0cc2) · [百度](https://pan.baidu.com/s/1Rpo1Q51QF8NUteZOhsfnBw?pwd=dxam) |
 | 真我 GT Neo6 SE（RMX3850） | 降级包RealmeUI RMX3850_14.0.1.611(CN01) A.36 | 约 7.97 GB/个，共 2 个包 | [夸克](https://pan.quark.cn/s/7e1907f840cb) · [百度](https://pan.baidu.com/s/194UZdZl0KjPkvbO7mDlu-Q?pwd=dxam) |
-| 真我 GT2 大师探索版（RMX3551） | 降级包RealmeUI RMX3551_14.0.0.1410(CN01) F.36 | 7.64 GB | [夸克](https://pan.quark.cn/s/c231269694d2) · [百度](https://pan.baidu.com/s/1truqLumwY2SdwN6Kbc45kw?pwd=dxam) |
 | 真我 GT2 Pro（RMX3300） | 降级包RealmeUI RMX3300_14.0.0.1410(CN01) F.36 | 7.58 GB | [夸克](https://pan.quark.cn/s/23bc76a9fbfd) · [百度](https://pan.baidu.com/s/1Q4d9cinDAsGkQulJr4Im_A?pwd=dxam) |
+| 真我 GT2 大师探索版（RMX3551） | 降级包RealmeUI RMX3551_14.0.0.1410(CN01) F.36 | 7.64 GB | [夸克](https://pan.quark.cn/s/c231269694d2) · [百度](https://pan.baidu.com/s/1truqLumwY2SdwN6Kbc45kw?pwd=dxam) |
 | 真我 GT5 150W（RMX3820） | 降级包RealmeUI RMX3820_14.0.0.1120(CN01) C.55 | 7.64 GB | [夸克](https://pan.quark.cn/s/f04820b85c21) · [百度](https://pan.baidu.com/s/1RNRYE5P_0PxYxPpHqXn5kg?pwd=dxam) |
 | 真我 GT5 240W（RMX3823） | 降级包RealmeUI RMX3823_14.0.0.1120(CN01) C.55 | 7.66 GB | [夸克](https://pan.quark.cn/s/0949d122ccd4) · [百度](https://pan.baidu.com/s/11JucHzQRdFxrboMhrTwyyw?pwd=dxam) |
 | 真我 GT5 Pro（RMX3888） | 降级包RealmeUI RMX3888_14.1.0.804(CN01) | 8.34 GB | [夸克](https://pan.quark.cn/s/07d08f3d60a4) |
@@ -107,10 +110,11 @@
 | 一加 Ace 3V（CPH2661，海外版） | 降级包OxygenOS CPH2661_14.0.1.401(EX01 ) A.18 | 7.14 GB | [夸克](https://pan.quark.cn/s/11cf8495eb4e) · [百度](https://pan.baidu.com/s/1yEn67lcyyMfuNdrLzfPrfg?pwd=dxam) |
 | 一加 Ace 3V（CPH2663，欧洲 EEA） | 降级包OxygenOS CPH2663_14.0.1.401(EX01 ) A.18_EEA | 7.03 GB | [夸克](https://pan.quark.cn/s/856f14a14b0f) · [百度](https://pan.baidu.com/s/1iMae-sSBbTgkhCoxdbo3og?pwd=dxam) |
 | 一加 Ace 3V（CPH2663，全球 GLO） | 降级包OxygenOS CPH2663_14.0.1.401(EX01 ) A.18_GLO | 6.82 GB | [夸克](https://pan.quark.cn/s/aeea53821a18) · [百度](https://pan.baidu.com/s/1K8S4RCPyWZDn3M1nmppeWw?pwd=dxam) |
-| 一加 Ace 竞速版（PGZ110） | 降级包 ColorOS PGZ110_14.0.0.640(CN01) F.36 | 8.42 GB | [夸克](https://pan.quark.cn/s/0e0ad0a3720c) · [百度](https://pan.baidu.com/s/19PlJh74o8nKHOKQERUQb8g?pwd=dxam) |
 | 一加 Ace Pro（PGP110） | 降级包ColorOS PGP110_14.0.0.510(CN01) F.60 原神 | 8.69 GB | [夸克](https://pan.quark.cn/s/66852038e3e0) · [百度](https://pan.baidu.com/s/1OPgicUNbhJv51L0v9ChYvg?pwd=dxam) |
+| 一加 Ace Pro（PGP110） | 降级包ColorOS PGP110_14.0.0.510(CN01M630) F.60 | 待补充 | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | 一加 Ace Pro（PGP110） | 降级包ColorOS PGP110_14.0.0.704(CN01) F.60 | 8.34 GB | [夸克](https://pan.quark.cn/s/1d9df09ad842) · [百度](https://pan.baidu.com/s/1IjLD64dcnTkqkEpM8IMVcA?pwd=dxam) |
 | 一加 10T（CPH2413，海外版） | 降级包OxygenOS CPH2413_14.0.0.712(EX01) F.67 | 6.17 GB | [夸克](https://pan.quark.cn/s/6f8354d420e2) · [百度](https://pan.baidu.com/s/1tn282NuqtdSCclyNki_Klg?pwd=dxam) |
+| 一加 Ace 竞速版（PGZ110） | 降级包ColorOS PGZ110_14.0.0.640(CN01) F.36 | 8.42 GB | [夸克](https://pan.quark.cn/s/7d2534492f89) |
 | 一加 Open（CPH2551，欧洲 EU） | 降级包OxygenOS CPH2551_14.0.0.600(EX01)_EU | 待补充 | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | 一加 Open（CPH2551，印度 IND） | 降级包OxygenOS CPH2551_14.0.0.600(EX01)_IND | 待补充 | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | 一加 Open（CPH2551，北美 NA） | 降级包OxygenOS CPH2551_14.0.0.600(EX01)_NA | 待补充 | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
