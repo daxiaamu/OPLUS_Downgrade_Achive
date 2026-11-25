@@ -53,7 +53,7 @@
 | OPPO Pad 3（OPD2405） | 降级包ColorOS OPD2405_16.0.5.1301(CN01) C.22 | 9.24 GB | [夸克](https://pan.quark.cn/s/b6c654c7cdab) · [迅雷](https://pan.xunlei.com/s/VP6g3Y6V4O3gArNAIK6jpFS-A1?pwd=iz86) · [百度](https://pan.baidu.com/s/1MlWj0rwQwXbxBtQ0EMpZDw?pwd=dxam) |
 | OPPO Pad 3 Pro（OPD2401） ※ | 降级包ColorOS OPD2401_16.0.5.1201(CN01) F.88 | 9.05 GB | [夸克](https://pan.quark.cn/s/dff55ba08ed8) · [迅雷](https://pan.xunlei.com/s/VP6g3XxOoVVqiI_c4aNxzCD1A1?pwd=a9d8) · [百度](https://pan.baidu.com/s/15qjGgZcxv2SQWHee8CoiBQ?pwd=dxam) |
 | OPPO Pad 4 Pro（OPD2409） ※ | 降级包ColorOS OPD2409_16.0.8.300(CN01) C.33 | 9.31 GB | [夸克](https://pan.quark.cn/s/bb9fb0511046) · [迅雷](https://pan.xunlei.com/s/VP6g3YJ9c8wSXH-ay8_E_JhKA1?pwd=uer5) · [百度](https://pan.baidu.com/s/1GDmL_39mA0FU3DfPI8Zo4g?pwd=dxam) |
-| OPPO Pad 5（OPD2506） | 降级包ColorOS OPD2506_16.0.10.500(CN01) A.35 | 11.29 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
+| OPPO Pad 5（OPD2506） | 降级包ColorOS OPD2506_16.0.10.500(CN01) A.35 | 11.29 GB | [夸克](https://pan.quark.cn/s/22786fe310b7) |
 | OPPO Pad 5 Pro（OPD2511） | 降级包ColorOS OPD2511_16.0.9.401(CN01) A.32 | 9.59 GB | [夸克](https://pan.quark.cn/s/bf7601d75668) · [迅雷](https://pan.xunlei.com/s/VP74Yx5zrfccz1bcOh42cqeKA1?pwd=d7ca) · [百度](https://pan.baidu.com/s/1qMiq9Lof0IhHcgiyj-rNAg?pwd=dxam) |
 | OPPO Pad 6（OPD2601）（适用源版本待确认） | 降级包ColorOS OPD2601_16.0.10.500(CN01) A.18 | 10.33 GB | [夸克](https://pan.quark.cn/s/463f8820ab61) · [迅雷](https://pan.xunlei.com/s/VP6g3YWt4MaN5bM2sgu9bRx9A1?pwd=s9gy) · [百度](https://pan.baidu.com/s/1PTG9hmMW9p7waluPqC4gQQ?pwd=dxam) |
 | OPPO Pad Air5（OPD2501） | 降级包ColorOS OPD2501_16.0.5.1301(CN01) A.39 | 10.34 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
