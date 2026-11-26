@@ -27,7 +27,7 @@
 | OPPO Find N3（PHN110） | 降级包ColorOS PHN110_15.0.0.850(CN01) F.56 | 8.16 GB | [夸克](https://pan.quark.cn/s/c128e28200e3) · [迅雷](https://pan.xunlei.com/s/VP74YqZBItAGIgU0kwdwAhmPA1?pwd=b2bq) · [百度](https://pan.baidu.com/s/1tZ-dnNLvm-50sOjGka7k8g?pwd=dxam) |
 | OPPO Find N3 Flip（PHT110） | 降级包ColorOS PHT110_15.0.0.860(CN01) F.86 | 10.08 GB | [夸克](https://pan.quark.cn/s/46f01d2be8b6) · [百度](https://pan.baidu.com/s/1pR3ML9n1FoMdz5-AcYsHBQ?pwd=dxam) |
 | OPPO Find N5（PKH110） | 降级包ColorOS PKH110_15.0.1.831(CN01) A.57 | 10.11 GB | [夸克](https://pan.quark.cn/s/7fd104a6574e) · [百度](https://pan.baidu.com/s/1Gehd7tJdpqdRxTyFfEfpwA?pwd=dxam) |
-| OPPO Find N5 卫星通信版（PKH120） | 降级包ColorOS PKH120_15.0.1.831(CN01) A.57 | 10.12 GB | [夸克](https://pan.quark.cn/s/46e7e58aca4e) · [百度](https://pan.baidu.com/s/1Z4nWN791nUa6e7ViHV7YDA?pwd=dxam) |
+| OPPO Find N5 卫星通信版（PKH120） | 降级包ColorOS PKH120_15.0.1.831(CN01) A.57 | 10.12 GB | [夸克](https://pan.quark.cn/s/46e7e58aca4e) · [迅雷](https://pan.xunlei.com/s/VP7OPpakUM9FeHMl1v2f3od6A1?pwd=echt) · [百度](https://pan.baidu.com/s/1Z4nWN791nUa6e7ViHV7YDA?pwd=dxam) |
 | OPPO Find X5 Pro（PFEM10） | 降级包ColorOS PFEM10_15.0.0.1302(CN01) H.88 | 8.77 GB | [夸克](https://pan.quark.cn/s/eaabfeb31c0b) |
 | OPPO Find X5 Pro 天玑版（PFFM20） | 降级包ColorOS PFFM20_15.0.0.1351(CN01) H.33 | 8.53 GB | [夸克](https://pan.quark.cn/s/77f6bbb3a8dc) |
 | OPPO Find X6（PGFM10） | 降级包ColorOS PGFM10_15.0.0.850(CN01) F.34 | 9.37 GB | [夸克](https://pan.quark.cn/s/1c2557164262) · [百度](https://pan.baidu.com/s/1HNBh7QI9GeBsni1iIvb34Q?pwd=dxam) |

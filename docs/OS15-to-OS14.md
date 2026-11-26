@@ -14,7 +14,7 @@
 |---|---|---|---|
 | OPPO A3 Pro（PJY110） | 降级包ColorOS PJY110_14.0.1.1300(CN01) A.27 | 7.96 GB | [夸克](https://pan.quark.cn/s/4f8f222ed2f9) |
 | OPPO A3 活力版（PKD110） | 降级包ColorOS PKD110_14.0.1.734(CN01) A.23 | 6.59 GB | [夸克](https://pan.quark.cn/s/4d35cd123ac2) |
-| OPPO A3i（PKL110） | 降级包ColorOS PKL110_14.0.1.1103(CN01) A.13 | 6.66 GB | [夸克](https://pan.quark.cn/s/57bf9796e5ea) |
+| OPPO A3i（PKL110） | 降级包ColorOS PKL110_14.0.1.1103(CN01) A.13 | 6.66 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO A3x（PKD130） | 降级包ColorOS PKD130_14.0.1.734(CN01) A.23 | 6.56 GB | [夸克](https://pan.quark.cn/s/205b90ca05ce) |
 | OPPO Find N2（PGU110） | 降级包ColorOS PGU110_14.0.0.711(CN01) C.82 | 9.25 GB | [夸克](https://pan.quark.cn/s/1e07ca903071) · [迅雷](https://pan.xunlei.com/s/VP53Je1RpBonJnxTPHEbtkfCA1?pwd=eeqz) · [百度](https://pan.baidu.com/s/1nfKji43C6CPuDlOCv2OcXg?pwd=dxam) |
 | OPPO Find N2 Flip（PGT110） | 降级包ColorOS PGT110_14.0.0.550(CN01) C.78 | 9.42 GB | [夸克](https://pan.quark.cn/s/1882cbf695a9) · [百度](https://pan.baidu.com/s/1ojfA-Vfe1YQ_Q54kzG8fjg?pwd=dxam) |

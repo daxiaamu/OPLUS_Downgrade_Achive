@@ -25,7 +25,7 @@
 | OPPO Find X5 Pro 天玑版（PFFM20） | 降级包ColorOS PFFM20_13.1.0.191(CN01) C.35 | 8.55 GB | [夸克](https://pan.quark.cn/s/48d3a0b6eeca) |
 | OPPO Find X6（PGFM10） | 降级包ColorOS PGFM10_13.1.0.132(CN01) A.38 | 9.25 GB | [夸克](https://pan.quark.cn/s/750f6009f4f6) |
 | OPPO K10 Pro（PGIM10） | 降级包ColorOS PGIM10_13.1.0.190(CN01) C.20 | 8.12 GB | [夸克](https://pan.quark.cn/s/a6a30315c15e) |
-| OPPO Pad（OPD2101） | 降级包ColorOS OPD2101_13.1.0.195(CN01) F.46 | 5.35 GB | [夸克](https://pan.quark.cn/s/dfde2f6a4aee) |
+| OPPO Pad（OPD2101） | 降级包ColorOS OPD2101_13.1.0.195(CN01) F.46 | 5.35 GB | 即将更新网盘链接，请访问[oplusrom.com](https://oplusrom.com)查看 |
 | OPPO Pad 2（OPD2201） | 降级包ColorOS OPD2201_13.1.0.193(CN01) A.40 | 6.66 GB | [夸克](https://pan.quark.cn/s/3143e7845e27) |
 | OPPO Pad Air 2（OPD2301） | 降级包ColorOS OPD2301_13.2.0.425(CN01) A.38 | 6.03 GB | [夸克](https://pan.quark.cn/s/38bd6eebf122) |
 | OPPO Reno10 Pro+（PHU110） | 降级包ColorOS PHU110_13.1.1.203(CN01) A.24 | 9.24 GB | [夸克](https://pan.quark.cn/s/b9f2619a0d9a) · [百度](https://pan.baidu.com/s/1Q80g7RMZz6mhnagrYS3HAA?pwd=dxam) |
